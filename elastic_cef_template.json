@@ -43,10 +43,10 @@
                     "type": "integer"
                 },
                 "bytesIn": {
-                    "type": "integer"
+                    "type": "bytes"
                 },
                 "bytesOut":{
-                    "type": "integer"
+                    "type": "bytes"
                 },
                 "Packets received": {
                     "type": "integer"
@@ -273,6 +273,10 @@
                 "destinationTranslatedAddress": {
                     "type": "ip"
                 },
+                "destinationTranslatedPort": {
+                    "type": "integer"
+                },
+                
                 "sourceTranslatedAddress": {
                     "type": "ip"
                 },
