@@ -273,10 +273,6 @@
                 "destinationTranslatedAddress": {
                     "type": "ip"
                 },
-                "destinationTranslatedPort": {
-                    "type": "integer"
-                },
-                
                 "sourceTranslatedAddress": {
                     "type": "ip"
                 },
